@@ -1,9 +1,9 @@
 div#logo{
-    background-color: black;
-    color: white;
-    font: 50px Arial;
+    background-color: red;
+    color: black;
+    font: 80px Arial;
     text-align: center;
-    text-shadow: silver 4px 4px 8px;
+    text-shadow: white 4px 4px 8px;
     border: double silver;
-    letter-spacing: 15px;
+    letter-spacing: 20px;
 }
